@@ -28,4 +28,3 @@ Algorithm:
 7. Repeat steps 4-6 until all cities have been visited.
 8. The route will be the list of cities visited in the order they were visited.  
 
-Hence, the output of the code screenshot were putted with the file.
